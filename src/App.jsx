@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-    <h2>Lesson-1</h2>
+    <h1>Lesson-2</h1>
       
     </>
   )
