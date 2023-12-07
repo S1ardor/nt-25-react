@@ -1,12 +1,11 @@
-
 import './App.css'
+import { Header } from './Header/Header'
 
 function App() {
 
   return (
     <>
-    <h2>Lesson-1</h2>
-      
+    <Header/>
     </>
   )
 }
