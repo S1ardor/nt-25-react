@@ -1,5 +1,5 @@
 import './App.css'
-import { Header } from './Header/Header';
+import { Header } from './components/header/Header';
 
 function App() {
 
@@ -10,4 +10,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
